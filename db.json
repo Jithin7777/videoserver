@@ -1,0 +1,68 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Luminar Technolab",
+      "cover_image": "https://i.postimg.cc/zDCD9gHy/download.jpg",
+      "video_url": "https://www.youtube.com/embed/OqyURAoQ4NQ?autoplay=1"
+    },
+    {
+      "id": "lo350enj",
+      "caption": "Doctor-So Baby",
+      "cover_image": "https://www.filmibeat.com/img/2021/05/doctor-1620810843.jpg",
+      "video_url": "https://www.youtube.com/embed/UgjtxhV08Ao?autoplay=1"
+    },
+    {
+      "id": "lo3v63rg",
+      "caption": "Doctor-So Baby",
+      "cover_image": "https://www.filmibeat.com/img/2021/05/doctor-1620810843.jpg",
+      "video_url": "https://www.youtube.com/embed/UgjtxhV08Ao?autoplay=1"
+    },
+    {
+      "id": "lo3vqti0",
+      "caption": "Tom  & Jerry",
+      "cover_image": "https://cdn.vox-cdn.com/thumbor/pJB_CR9CHm2vjKnRXt8EEGYq7ws=/0x85:2000x1585/1400x1400/filters:focal(0x85:2000x1585):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/49502491/Tom_and_Jerry_.0.0.jpg",
+      "video_url": "https://www.youtube.com/embed/5oH9Nr3bKfw?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "Gbcn-g4",
+      "name": "education",
+      "videos": [
+        {
+          "id": 1,
+          "caption": "Luminar Technolab",
+          "cover_image": "https://i.postimg.cc/zDCD9gHy/download.jpg",
+          "video_url": "https://www.youtube.com/embed/OqyURAoQ4NQ?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "Y5GoQLl",
+      "name": "Songs",
+      "videos": [
+        {
+          "id": "lo3v63rg",
+          "caption": "Doctor-So Baby",
+          "cover_image": "https://www.filmibeat.com/img/2021/05/doctor-1620810843.jpg",
+          "video_url": "https://www.youtube.com/embed/UgjtxhV08Ao?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": 1,
+      "video_title": "Doctor-So Baby",
+      "url": "https://www.youtube.com/embed/UgjtxhV08Ao?autoplay=1",
+      "date": "  October 29 6th 2023 9:05 AM"
+    },
+    {
+      "id": "locjv1rv",
+      "video_title": "Luminar Technolab",
+      "url": "https://www.youtube.com/embed/OqyURAoQ4NQ?autoplay=1",
+      "date": "2023-10-30 12:29:37 PM"
+    }
+  ]
+}
